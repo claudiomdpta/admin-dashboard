@@ -43308,7 +43308,7 @@ H(a){var s=null
 return A.bg(s,A.bg(s,B.BP,B.i,s,B.zT,s,s,s,s,s,s,s,s),B.i,s,s,B.A5,s,s,s,s,s,s,s)}}
 A.J5.prototype={
 H(a){var s=null
-return A.bg(s,A.fy(A.a([new A.mq(A.adt(s,s,new A.j6("twitter-white-logo.png",s,s)),s,s,50,50,s,B.b7,s,B.u,B.aZ,!1,!1,!1,s),B.aC,A.aA8(A.bD("Sucediendo ahora",s,s,s,A.avV(B.l,60,B.b8),s,s),B.nv)],t.p),B.eO,B.X,B.S),B.i,s,s,s,s,s,s,B.eV,s,s,s)}}
+return A.bg(s,A.fy(A.a([new A.mq(A.adt(s,s,new A.j6("twitter-white-logo.png",s,s)),s,s,50,50,s,B.b7,s,B.u,B.aZ,!1,!1,!1,s),B.aC,A.aA8(A.bD("Sucediendo ahora 1.2",s,s,s,A.avV(B.l,60,B.b8),s,s),B.nv)],t.p),B.eO,B.X,B.S),B.i,s,s,s,s,s,s,B.eV,s,s,s)}}
 A.Ls.prototype={
 H(a){var s=null,r=a.P(t.w).f.a,q=r.a>1000?r.b*0.075:s
 return A.bg(s,A.ax2(B.Uv,A.a([new A.ei("About",new A.a92(),s),B.Gu,B.Gp,B.Gv,B.Gt,B.Gr,B.Gn,B.Gs,B.Go,B.Gl,B.Gm,B.Gq],t.p),B.a6),B.i,B.n,s,s,s,q,s,s,s,s,s)}}
