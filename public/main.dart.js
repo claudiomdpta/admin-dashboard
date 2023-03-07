@@ -24401,7 +24401,7 @@ ax(a){if(typeof a=="function")return a
 else return A.aQi(a)},
 a_C(){var s,r=$.wk().Fb$
 r===$&&A.b()
-r.pb$="http://localhost:8080/api"
+r.pb$="https://admin-dashboard-8miz.onrender.com/api"
 s=A.cr(J.aV($.tq.aK().a,"token"))
 r.sRx(0,A.aA(["x-token",s==null?"":s],t.N,t.z))},
 rg(a){return A.aJ6(a)},
